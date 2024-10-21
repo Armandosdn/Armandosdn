@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Armando 
+- 👀 I’m interested in learning how this world works trying to figure things out focus in being a future developer 
+- 🌱 I’m currently learning python trying to understand how programming works dealing with beginner problems and learning syntax 
+- 💞️ I’m looking to collaborate with any community or anyone interested
+- 📫 you can reach me bia my email armandosdn018@gmial.com or my whatsapp +1 813 797 9433
+- 
+- ⚡ Fun fact: a team of computer scientists,found a moth trapped in a relay of the Harvard Mark II computer.
+-  This insect caused the computer to malfunction, and they literally “debugged” the machine by removing it! Since then,
+-  the term “bug” has been used to describe glitches or errors in software.
